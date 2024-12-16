@@ -30,13 +30,8 @@ Hi! I’m Juliana Rioflorido, also known as Lian. As a first-year Computer Scien
 
 - **Languages:**
   - C++
-  - HTML, CSS, JavaScript
-- **Technologies & Frameworks:**
-  - React.js (learning in progress)
-  - Git & GitHub
-- **Soft Skills:**
-  - Problem-solving
-  - Team collaboration
+  - HTML
+  - CSS
 
 ---
 
@@ -47,10 +42,10 @@ Hi! I’m Juliana Rioflorido, also known as Lian. As a first-year Computer Scien
 - **Highlights:** Improved algorithm efficiency and gained experience in computational problem-solving.
 - **[View Project](https://youtu.be/Xxy6iCKRpAQ)**
 
-### Web Development Project
-- **Description:** Created a responsive portfolio website using HTML, CSS, and JavaScript.
-- **Highlights:** Showcased design and coding expertise.
-- **[View Project](#)**
+### SFour R's of Ecology Waste Management
+- **Description:** This project highlights waste management principles for sustainability..
+- **Highlights:** Showcased dthe principles for sustainability.
+- **[View Project](https://www.canva.com/design/DAGUlOq87Ew/oSTQuJZ75lezd9d6KwpN0Q/edit?utm_content=DAGUlOq87Ew&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
 
 ---
 
